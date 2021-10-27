@@ -8,11 +8,11 @@
   background: #111;
 }
 
-[href]:link {
+:link {
   color: hotpink;
 }
 
-[href]:visited {
+:visited {
   color: violet;
 }
 
