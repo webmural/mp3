@@ -8,6 +8,10 @@
   background: #111;
 }
 
+[href] {
+  color: pink;
+}
+
 :link {
   color: hotpink;
 }
